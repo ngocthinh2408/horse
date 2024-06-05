@@ -1,0 +1,34 @@
+
+Trees.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cay_01
+  rotate: false
+  xy: 156, 47
+  size: 121, 130
+  orig: 121, 130
+  offset: 0, 0
+  index: -1
+Cay_02
+  rotate: false
+  xy: 279, 68
+  size: 121, 109
+  orig: 121, 109
+  offset: 0, 0
+  index: -1
+Cay_03
+  rotate: false
+  xy: 2, 2
+  size: 152, 175
+  orig: 152, 175
+  offset: 0, 0
+  index: -1
+Cay_04
+  rotate: false
+  xy: 402, 54
+  size: 100, 123
+  orig: 100, 123
+  offset: 0, 0
+  index: -1

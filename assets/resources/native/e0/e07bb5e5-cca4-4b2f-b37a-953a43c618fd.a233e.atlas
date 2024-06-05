@@ -1,0 +1,62 @@
+
+La_Co.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 2
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+Chan
+  rotate: false
+  xy: 184, 91
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+Dau
+  rotate: false
+  xy: 2, 58
+  size: 61, 68
+  orig: 61, 68
+  offset: 0, 0
+  index: -1
+L_Tie
+  rotate: false
+  xy: 65, 60
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+R_Tie
+  rotate: false
+  xy: 222, 96
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+SD
+  rotate: false
+  xy: 184, 116
+  size: 66, 10
+  orig: 66, 10
+  offset: 0, 0
+  index: -1
+Tay _Trai
+  rotate: false
+  xy: 65, 78
+  size: 59, 48
+  orig: 59, 48
+  offset: 0, 0
+  index: -1
+Tay_Phai
+  rotate: false
+  xy: 126, 80
+  size: 56, 46
+  orig: 56, 46
+  offset: 0, 0
+  index: -1

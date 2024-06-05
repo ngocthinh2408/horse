@@ -1,0 +1,34 @@
+
+Yellow_Horse_EX.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body_Die
+  rotate: true
+  xy: 2, 2
+  size: 239, 370
+  orig: 239, 370
+  offset: 0, 0
+  index: -1
+L_Wing
+  rotate: false
+  xy: 374, 108
+  size: 162, 133
+  orig: 162, 133
+  offset: 0, 0
+  index: -1
+R_Wing
+  rotate: false
+  xy: 538, 108
+  size: 162, 133
+  orig: 162, 133
+  offset: 0, 0
+  index: -1
+Vong_hon
+  rotate: false
+  xy: 374, 85
+  size: 122, 21
+  orig: 122, 21
+  offset: 0, 0
+  index: -1

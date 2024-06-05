@@ -1,0 +1,181 @@
+
+Yellow_Horse_EX.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 272, 317
+  size: 146, 181
+  orig: 146, 181
+  offset: 0, 0
+  index: -1
+Body_Sap_Ham
+  rotate: false
+  xy: 272, 134
+  size: 146, 181
+  orig: 146, 181
+  offset: 0, 0
+  index: -1
+Chan_Phai
+  rotate: false
+  xy: 757, 174
+  size: 94, 91
+  orig: 94, 91
+  offset: 0, 0
+  index: -1
+Chan_Phai_Sap_Ham
+  rotate: false
+  xy: 878, 223
+  size: 94, 91
+  orig: 94, 91
+  offset: 0, 0
+  index: -1
+Chan_Trai
+  rotate: true
+  xy: 525, 67
+  size: 94, 97
+  orig: 94, 97
+  offset: 0, 0
+  index: -1
+Chan_Trai_Sap_Ham
+  rotate: true
+  xy: 779, 267
+  size: 94, 97
+  orig: 94, 97
+  offset: 0, 0
+  index: -1
+Close_eye
+  rotate: false
+  xy: 272, 57
+  size: 133, 75
+  orig: 133, 75
+  offset: 0, 0
+  index: -1
+Duoi
+  rotate: true
+  xy: 639, 129
+  size: 169, 57
+  orig: 169, 57
+  offset: 0, 0
+  index: -1
+Duoi_Sap_Ham
+  rotate: true
+  xy: 698, 168
+  size: 169, 57
+  orig: 169, 57
+  offset: 0, 0
+  index: -1
+Mouth_02
+  rotate: false
+  xy: 163, 2
+  size: 72, 38
+  orig: 72, 38
+  offset: 0, 0
+  index: -1
+Mouth_Laugh
+  rotate: false
+  xy: 84, 5
+  size: 77, 35
+  orig: 77, 35
+  offset: 0, 0
+  index: -1
+Mouth_Laugh1
+  rotate: false
+  xy: 2, 3
+  size: 80, 37
+  orig: 80, 37
+  offset: 0, 0
+  index: -1
+Mouth_Panic
+  rotate: false
+  xy: 698, 130
+  size: 64, 36
+  orig: 64, 36
+  offset: 0, 0
+  index: -1
+Mouth_Panic_01
+  rotate: false
+  xy: 624, 84
+  size: 70, 43
+  orig: 70, 43
+  offset: 0, 0
+  index: -1
+Mouth_Smile
+  rotate: true
+  xy: 974, 237
+  size: 77, 28
+  orig: 77, 28
+  offset: 0, 0
+  index: -1
+My_Mat
+  rotate: false
+  xy: 2, 271
+  size: 268, 227
+  orig: 268, 227
+  offset: 0, 0
+  index: -1
+My_Mat_Sap_Ham
+  rotate: false
+  xy: 2, 42
+  size: 268, 227
+  orig: 268, 227
+  offset: 0, 0
+  index: -1
+Tay_Phai
+  rotate: false
+  xy: 420, 139
+  size: 103, 159
+  orig: 103, 159
+  offset: 0, 0
+  index: -1
+Tay_Phai_Sap_Ham
+  rotate: false
+  xy: 674, 339
+  size: 103, 159
+  orig: 103, 159
+  offset: 0, 0
+  index: -1
+Tay_Trai
+  rotate: false
+  xy: 525, 163
+  size: 112, 135
+  orig: 112, 135
+  offset: 0, 0
+  index: -1
+Tay_Trai_Sap_Ham
+  rotate: false
+  xy: 779, 363
+  size: 112, 135
+  orig: 112, 135
+  offset: 0, 0
+  index: -1
+Toc_Sau
+  rotate: false
+  xy: 420, 300
+  size: 125, 198
+  orig: 125, 198
+  offset: 0, 0
+  index: -1
+Toc_Sau_Sap_Ham
+  rotate: false
+  xy: 547, 300
+  size: 125, 198
+  orig: 125, 198
+  offset: 0, 0
+  index: -1
+Toc_Truoc
+  rotate: false
+  xy: 893, 408
+  size: 104, 90
+  orig: 104, 90
+  offset: 0, 0
+  index: -1
+Toc_Truoc_Sap_Ham
+  rotate: false
+  xy: 893, 316
+  size: 104, 90
+  orig: 104, 90
+  offset: 0, 0
+  index: -1

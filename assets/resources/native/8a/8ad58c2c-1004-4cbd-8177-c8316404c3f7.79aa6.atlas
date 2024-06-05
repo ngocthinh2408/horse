@@ -1,0 +1,104 @@
+
+Win.png
+size: 846,515
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4.Win/fx/Ellipse 2 copy 3
+  rotate: true
+  xy: 754, 2
+  size: 364, 37
+  orig: 364, 37
+  offset: 0, 0
+  index: -1
+4.Win/fx/Fly_0000_Layer-2
+  rotate: false
+  xy: 757, 473
+  size: 25, 40
+  orig: 27, 40
+  offset: 1, 0
+  index: -1
+4.Win/fx/Fly_0001_Layer-3
+  rotate: false
+  xy: 536, 168
+  size: 33, 23
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+4.Win/fx/Fly_0002_Layer-4
+  rotate: true
+  xy: 824, 23
+  size: 26, 20
+  orig: 26, 21
+  offset: 0, 1
+  index: -1
+4.Win/fx/Fly_0003_Layer-5
+  rotate: true
+  xy: 793, 51
+  size: 97, 47
+  orig: 98, 47
+  offset: 0, 0
+  index: -1
+4.Win/fx/Fly_0004_Layer-6
+  rotate: false
+  xy: 793, 31
+  size: 29, 18
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+4.Win/fx/Fly_0005_Layer-7
+  rotate: false
+  xy: 614, 58
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+4.Win/fx/Group 1 copy 2
+  rotate: true
+  xy: 793, 150
+  size: 363, 37
+  orig: 364, 37
+  offset: 0, 0
+  index: -1
+4.Win/fx/Layer 21
+  rotate: false
+  xy: 536, 193
+  size: 148, 173
+  orig: 148, 173
+  offset: 0, 0
+  index: -1
+4.Win/fx/Layer 22
+  rotate: false
+  xy: 614, 80
+  size: 70, 111
+  orig: 70, 111
+  offset: 0, 0
+  index: -1
+4.Win/fx/Layer 24
+  rotate: false
+  xy: 2, 10
+  size: 610, 114
+  orig: 612, 115
+  offset: 1, 1
+  index: -1
+4.Win/fx/Layer 7
+  rotate: true
+  xy: 686, 12
+  size: 354, 66
+  orig: 355, 66
+  offset: 1, 0
+  index: -1
+4.Win/fx/Layer 8 copy
+  rotate: false
+  xy: 2, 368
+  size: 753, 145
+  orig: 797, 153
+  offset: 13, 0
+  index: -1
+4.Win/fx/[bone]_lightB copy
+  rotate: false
+  xy: 2, 126
+  size: 532, 240
+  orig: 532, 276
+  offset: 0, 10
+  index: -1
