@@ -112,10 +112,10 @@ function dismissRewardedAd() {
 
 function displayRewardedAd() {
     console.log("displayRewardedAd");
-    //prepairRewardAd();
+    prepairRewardAd();
 }
 
-//prepairInterAd();
+prepairInterAd();
 function displayInterAd() {
     console.log("displayInterAd");
     if (interEvent) {
